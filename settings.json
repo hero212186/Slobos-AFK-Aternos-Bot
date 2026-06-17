@@ -6,8 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "notcat321.aternos.me
-",
+    "ip": "notcat321.aternos.me",
     "port": 52239,
     "version": "",
     "try-creative": false
